@@ -1,3 +1,4 @@
+//103062300084 - Kisya Reinatana Yama
 package main // Mulai program
 
 import "fmt" // untuk memanggil program, input output data
